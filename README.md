@@ -1,1 +1,2 @@
-# Hair-Segmentation-And-Recoloring : Project for CS406.M11
+# Hair-Segmentation-And-Recoloring : 
+This is the project for CS406.M11
