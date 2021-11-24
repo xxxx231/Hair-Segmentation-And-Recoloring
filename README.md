@@ -1,2 +1,2 @@
 # Hair-Segmentation-And-Recoloring : 
-This is the project for CS406.M11
+This is the project for my subject Image Processing and Applications - CS406.M11
