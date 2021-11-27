@@ -11,7 +11,8 @@ This is the project for my subject Image Processing and Applications - CS406.M11
 * Multiply
 
 ## Result
-
+![result1](result/img1.jpg)
+![result2](result/img2.jpg)
 ## References
 
 * [RIS AI HairNET Hair & Head Segmentation](https://www.youtube.com/watch?v=__zKgNb2Qp8&t=449s)
