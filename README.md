@@ -1,6 +1,9 @@
 # Hair-Segmentation-And-Recoloring
 This is the project for my subject Image Processing and Applications - CS406.M11
 
+## Report
+- [ ] (``Doing``)
+
 ## Dataset
 
 * [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
